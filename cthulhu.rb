@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 def prompt()
   print "> "
 end
